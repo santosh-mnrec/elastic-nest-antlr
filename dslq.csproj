@@ -9,6 +9,7 @@
     <PackageReference Include="Antlr4.Runtime.Standard" Version="4.9.2" />
     <PackageReference Include="Elasticsearch.Net" Version="7.13.1" />
     <PackageReference Include="NEST" Version="7.13.1" />
+    <PackageReference Include="newtonsoft.json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
